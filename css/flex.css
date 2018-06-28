@@ -1,0 +1,23 @@
+.flex-container {
+  display: flex;
+  justify-content: center;
+   flex-wrap: wrap;
+  background-color: DodgerBlue;
+  width:100%;
+}
+
+.flex-container > div {
+  background-color: #f1f1f1;
+  width: 360px;
+  height:400px;
+  margin: 10px;
+  margin-top: 10px;
+  
+  
+}
+.flex-container h4{
+  color: blue;
+  font-size:18px;
+  
+}
+  

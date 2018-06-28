@@ -1,0 +1,8 @@
+.row1 {
+    height:100px;
+}
+.row1 .card {
+    height:98px;
+    float:left;
+
+}
