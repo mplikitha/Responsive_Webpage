@@ -62,10 +62,5 @@ input[type=submit]:hover {
     #copyright {
        text-align: center;
     }
-    #social > div{
-       display: block;
-       width: 100%;
-       margin: 0 auto;
-       text-align: center;
-    }
+   
  }

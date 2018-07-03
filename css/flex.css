@@ -3,19 +3,46 @@
   justify-content: center;
    flex-wrap: wrap;
   background-color: DodgerBlue;
-  width:100%;
+  width:90%;
+  margin-left: 50px;
 }
 
 .flex-container > div {
   background-color: #f1f1f1;
   width: 360px;
+  height:450px;
+  margin: 10px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  margin-left: 10px;
+  margin-right: 10px;
+  
+  
+}
+.flex-container h4{
+  color: blue;
+  font-size:18px;
+  
+}
+
+.flex-container1 {
+  display: flex;
+  justify-content: center;
+   flex-wrap: wrap;
+  background-color: DodgerBlue;
+  width:100%;
+}
+
+.flex-container1 > div {
+  background-color: #f1f1f1;
+  width: 450px;
   height:400px;
   margin: 10px;
   margin-top: 10px;
   
   
 }
-.flex-container h4{
+.flex-container1 h4{
   color: blue;
   font-size:18px;
   
